@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasLatihanIntent</string>
+    <string name="detail">"Buat kamu para pria yang suka pakaian serba hitam, Indonesia memiliki merek streetwear bernama Maternal Disaster dari Bandung. Mereka tidak hanya menyediakan kaos, namun juga kemeja, jaket kulit, celana, hingga sepatu! Maternal " +
+            "Disaster memiliki ciri khas yang tidak dimiliki merek streetwear lain, yakni artwork khas seperti kesan metal dan old skull dari sang desainer yang berkerja di Maternal Disaster. "+
+            "Gambar-gambar seperti tengkorak, makhluk menyeramkan, hingga kata-kata keren seringkali tertempel di produk-produk mereka. Selain itu, harganya juga tidak terlalu mahal, terutama untuk kaos dan hoodie-nya yang tentu saja dengan harga terjangkau. " +
+            "Berikut informasi yang bisa kalian dapatkan mengenai brand Maternal."</string>
+    <string name="ciri_khas">Desain minimalis, stylish serta diikuti logo khas utamanya yaitu tali tambang</string>
+    <string name="bahan_kaos">Cotton Combed 30s</string>
+    <string name="official_store">Jl. Sultan Agung No.7, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115</string>
+</resources>
